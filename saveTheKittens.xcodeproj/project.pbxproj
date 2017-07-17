@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					BBFE9F191F1D071300E15ED8 = {
 						CreatedOnToolsVersion = 8.2;
+						DevelopmentTeam = FZ82X7GD43;
 						ProvisioningStyle = Automatic;
 					};
 					BBFE9F2D1F1D071300E15ED8 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FZ82X7GD43;
 				INFOPLIST_FILE = saveTheKittens/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Afreese.io.saveTheKittens;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FZ82X7GD43;
 				INFOPLIST_FILE = saveTheKittens/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Afreese.io.saveTheKittens;
